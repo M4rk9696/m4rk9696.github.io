@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>An Unsettling Mind Blog</title>
-        <link>https://m4rk9696.github.io/blog</link>
+        <link>//blog</link>
         <description>The best place to stay up-to-date with the latest An Unsettling Mind news and events.</description>
         <lastBuildDate>Sun, 21 Oct 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
             <title>An Unsettling Mind Blog</title>
-            <url>https://m4rk9696.github.io/undefined</url>
-            <link>https://m4rk9696.github.io/blog</link>
+            <url>//undefined</url>
+            <link>//blog</link>
         </image>
         <copyright>Copyright © 2018 Nimalan</copyright>
         <item>
             <title><![CDATA[Starting A Blog]]></title>
-            <link>https://m4rk9696.github.io/blog/2018/10/21/the-new-blog-yeah.html</link>
-            <guid>https://m4rk9696.github.io/blog/2018/10/21/the-new-blog-yeah.html</guid>
+            <link>//blog/2018/10/21/the-new-blog-yeah.html</link>
+            <guid>//blog/2018/10/21/the-new-blog-yeah.html</guid>
             <pubDate>Sun, 21 Oct 2018 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>Well I guess this is it. I'm doing this again. And this time in a way that is more suited to my style, using this project <a href="https://github.com/facebook/Docusaurus">Docusaurus</a>. So each new blog will be a new commit in my GitHub repo, well guess that's how devs blog.</p> ]]></description>
         </item>
