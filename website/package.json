@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "examples": "docusaurus-examples",
+    "start": "docusaurus-start",
+    "build": "docusaurus-build",
+    "publish-gh-pages": "docusaurus-publish",
+    "write-translations": "docusaurus-write-translations",
+    "version": "docusaurus-version",
+    "rename-version": "docusaurus-rename-version",
+    "lint": "eslint ./core ./pages ./siteConfig.js"
+  },
+  "devDependencies": {
+    "docusaurus": "^1.5.0"
+  },
+  "dependencies": {
+    "eslint": "^5.7.0",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
