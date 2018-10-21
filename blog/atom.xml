@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://m4rk9696.github.io/blog</id>
+    <title>An Unsettling Mind Blog</title>
+    <updated>2018-10-21T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://m4rk9696.github.io/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest An Unsettling Mind news and events.</subtitle>
+    <logo>https://m4rk9696.github.io/undefined</logo>
+    <rights>Copyright © 2018 Nimalan</rights>
+    <entry>
+        <title type="html"><![CDATA[Starting A Blog]]></title>
+        <id>https://m4rk9696.github.io/blog/2018/10/21/the-new-blog-yeah.html</id>
+        <link href="https://m4rk9696.github.io/blog/2018/10/21/the-new-blog-yeah.html">
+        </link>
+        <updated>2018-10-21T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Well I guess this is it. I'm doing this again. And this time in a way that is more suited to my style, using this project <a href="https://github.com/facebook/Docusaurus">Docusaurus</a>. So each new blog will be a new commit in my GitHub repo, well guess that's how devs blog.</p> ]]></summary>
+        <author>
+            <name>Nimalan aka Mark</name>
+            <uri>https://github.com/M4rk9696</uri>
+        </author>
+    </entry>
+</feed>
