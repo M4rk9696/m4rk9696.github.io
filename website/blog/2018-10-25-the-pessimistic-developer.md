@@ -23,7 +23,7 @@ BS, I've literally done everything
 * reading - Oh you found a nice quote, better send a mail to yourself
 
 > 1. Try talking this with your family man.
-2. You need professional help
+> 2. You need professional help
 
 Point number 1, they don't understand.  
 Sample conversations

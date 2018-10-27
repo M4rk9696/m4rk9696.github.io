@@ -1,5 +1,5 @@
 ---
-title: What get's me the most
+title: What gets me the most
 author: Mark
 authorURL: https://github.com/M4rk9696
 ---
@@ -13,9 +13,9 @@ Who is a "friend", and what is "friendship"? The more I think I know, the less I
 A DuckDuckGo search on _quotes on friendship_ and I find this.
 > * “Friendship is the hardest thing in the world to explain. It's not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.”
 ― Muhammad Ali
-* “What is a friend? A single soul dwelling in two bodies.”
+> * “What is a friend? A single soul dwelling in two bodies.”
 ― Aristotle
-* “A friend is someone who knows all about you and still loves you.”
+> * “A friend is someone who knows all about you and still loves you.”
 ― Elbert Hubbard
 
 What the hell is all of this, is this how humans work? And especially the last one, lol read this blog for a piece of my real mind, I'm pretty sure most people will think I'm crazy, the rest will ask me to be positive and say that will keep more people around me.  
