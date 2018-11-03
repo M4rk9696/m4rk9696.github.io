@@ -2,38 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m4rk9696.github.io/blog</id>
     <title>An Unsettling Mind Blog</title>
-    <updated>2018-10-28T06:00:00Z</updated>
+    <updated>2018-10-21T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="https://m4rk9696.github.io/blog"/>
     <subtitle>The best place to stay up-to-date with the latest An Unsettling Mind news and events.</subtitle>
     <logo>https://m4rk9696.github.io/undefined</logo>
     <rights>Copyright © 2018 Nimalan</rights>
-    <entry>
-        <title type="html"><![CDATA[What gets me the most]]></title>
-        <id>https://m4rk9696.github.io/blog/2018/10/28/what-gets-me-the-most.html</id>
-        <link href="https://m4rk9696.github.io/blog/2018/10/28/what-gets-me-the-most.html">
-        </link>
-        <updated>2018-10-28T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Another sleepless night, this time have to blame myself for sleeping in the afternoon. Viewer discretion is advised.</p>
-]]></summary>
-        <author>
-            <name>Mark</name>
-            <uri>https://github.com/M4rk9696</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pessimistic Developer]]></title>
-        <id>https://m4rk9696.github.io/blog/2018/10/25/the-pessimistic-developer.html</id>
-        <link href="https://m4rk9696.github.io/blog/2018/10/25/the-pessimistic-developer.html">
-        </link>
-        <updated>2018-10-25T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Have been trying to go to sleep for 4 hours, the thoughts keep flooding my mind, finally have decided to write this blog. I'm going to let my true thoughts out, none of the false optimism just to prevent people from freaking out. Viewer discretion is advised.</p>
-]]></summary>
-        <author>
-            <name>Mark</name>
-            <uri>https://github.com/M4rk9696</uri>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Starting A Blog]]></title>
         <id>https://m4rk9696.github.io/blog/2018/10/21/the-new-blog-yeah.html</id>

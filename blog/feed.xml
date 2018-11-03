@@ -4,7 +4,7 @@
         <title>An Unsettling Mind Blog</title>
         <link>https://m4rk9696.github.io/blog</link>
         <description>The best place to stay up-to-date with the latest An Unsettling Mind news and events.</description>
-        <lastBuildDate>Sun, 28 Oct 2018 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Oct 2018 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,22 +13,6 @@
             <link>https://m4rk9696.github.io/blog</link>
         </image>
         <copyright>Copyright © 2018 Nimalan</copyright>
-        <item>
-            <title><![CDATA[What gets me the most]]></title>
-            <link>https://m4rk9696.github.io/blog/2018/10/28/what-gets-me-the-most.html</link>
-            <guid>https://m4rk9696.github.io/blog/2018/10/28/what-gets-me-the-most.html</guid>
-            <pubDate>Sun, 28 Oct 2018 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Another sleepless night, this time have to blame myself for sleeping in the afternoon. Viewer discretion is advised.</p>
-]]></description>
-        </item>
-        <item>
-            <title><![CDATA[The Pessimistic Developer]]></title>
-            <link>https://m4rk9696.github.io/blog/2018/10/25/the-pessimistic-developer.html</link>
-            <guid>https://m4rk9696.github.io/blog/2018/10/25/the-pessimistic-developer.html</guid>
-            <pubDate>Thu, 25 Oct 2018 06:00:00 GMT</pubDate>
-            <description><![CDATA[<p>Have been trying to go to sleep for 4 hours, the thoughts keep flooding my mind, finally have decided to write this blog. I'm going to let my true thoughts out, none of the false optimism just to prevent people from freaking out. Viewer discretion is advised.</p>
-]]></description>
-        </item>
         <item>
             <title><![CDATA[Starting A Blog]]></title>
             <link>https://m4rk9696.github.io/blog/2018/10/21/the-new-blog-yeah.html</link>
