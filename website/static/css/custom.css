@@ -1,5 +1,46 @@
 /* your custom css */
 
+.homeContainer .homeWrapper {
+    height: 350px;
+}
+
+.homeContainer .homeWrapper .projectLogo {
+    display: grid;
+    justify-content: left;
+}
+
+.homeContainer .homeWrapper .projectLogo img {
+    height: 250px;
+    margin: 5px;
+}
+
+.inner {
+    text-align: right;
+}
+
+.imageAlignTop.alignCenter .blockImage {
+    
+}
+
+.gridBlock .fourByGridBlock img {
+    max-height: 100%;
+    width: 200px;
+    height: 200px;
+}
+
+.imageAlignTop .blockImage {
+    max-width: 200px;
+}
+
+.logo-text {
+    font-size: 1.7em;
+}
+
+#euler-logo {
+    height: auto;
+    /* width: 250px; */
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 

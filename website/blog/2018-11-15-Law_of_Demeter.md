@@ -6,6 +6,9 @@ authorURL: https://github.com/M4rk9696
 
 ### Design Guideline 1 - Law of Demeter
 
+Stumpled across this from PMD at 2AM at office 😓, and what did I do?? Ping chat
+about the topic, fix my code and sleep
+
 <!-- truncate -->
 
 #### What is the Law of Demeter?
@@ -37,9 +40,10 @@ class A {
 ```
 
 #### Why use the Law of Demeter?
-- Increases maintainable and adaptable
+Law of Demeter stems from Seperation of Concerns. Following it reduces the
+coupling between modules and it increases maintainability.
 
-#### Why will the code become a problem?
+#### An example of why coupling will become a problem?
 
 Currently Class A **directly** depends on Class O.
 
@@ -66,41 +70,6 @@ Now Class A is **directly** depends on both Class O and Class X. Let's say owner
 He will not be able to as he needs to deal with the dependency in Class A.
 
 This also affects the testability of Class A.
-
-#### Text Book Use Case
-
-```java
-  class User {
-    // Law of Demeter Violation
-    Account account;
-    double getDiscountedPrice(String discountCode) {
-      Coupon coupon = Coupon.create(discountCode);
-      return coupon.discount(account.getPlan().getPrice());
-    }
-  }
-
-  class Account {
-    Plan plan;
-  }
-```
-
-```java
-  class User {
-    Account account;
-    double getDiscountedPrice(String discountCode) {
-      return account.discountPlanPrice(discountCode);
-    }
-  }
-
-  class Account {
-    Plan plan;
-    double discountPrice(String discountCode) {
-      Coupon coupon = Coupon.create(discountCode);
-      return coupon.discount(plan.getPrice());
-    }
-  }
-```
-
 
 #### References
 
