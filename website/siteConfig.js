@@ -8,7 +8,7 @@ const siteConfig = {
   headerLinks: [
     // {page: 'codeArt', label: 'Code Art'},
     // {page: 'projects', label: 'Projects'},
-    {blog: true, label: 'Non Tech Blog'},
+    {blog: true, label: 'Tech Blog'},
   ],
   // headerIcon: 'img/header.svg',
   favicon: 'img/favicon/favicon.ico',

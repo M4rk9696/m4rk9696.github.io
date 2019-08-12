@@ -74,7 +74,7 @@ It is type safe to allow an overriding method to accept a more general argument.
 
 Since variance switches between languages, it is easy to forget which variance is present
 
-## Avoiding the need for covariant argument types
+## Avoiding the need for covariant argument types by the use of generics
 
 The following code will behave the same in both Java and C#
 
