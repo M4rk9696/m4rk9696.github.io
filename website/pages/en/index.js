@@ -114,7 +114,7 @@ class Index extends React.Component {
             image: `${baseUrl}img/undraw_blogging_vpvv.svg`,
             imageAlign: 'top',
             imageAlt: 'My Non Tech Blog',
-            imageLink: siteConfig.baseUrl + 'blog',
+            imageLink: 'https://m4rk9696.github.io/mu/',
             title: 'Non Tech Blog'
           },
           {
