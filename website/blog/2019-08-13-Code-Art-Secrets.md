@@ -70,7 +70,7 @@ This is a direct port of this [code](https://rosettacode.org/wiki/Mandelbrot_set
 This next step was to make it Obfuscated.
 
 And finally the icing on the cake(or rather the cake itself), I manually formatted the code
-into a mandelbrot set
+into a mandelbrot set. Yes, I manually created this.
 
 ```js
                                                            c=
